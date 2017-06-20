@@ -2,7 +2,7 @@
 see [example](https://m.facebook.com/story.php?story_fbid=311058639319135&id=306456763112656)
 
 ----
-##Usage
+## Usage
 * To run this php script should be on server
 * Follow facebook markup for basic meta tags for preview and add in index.php
 * Import database
